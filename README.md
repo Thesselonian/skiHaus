@@ -15,6 +15,8 @@
   ## **Deployed URL**
 
   [https://ski-haus.herokuapp.com/][https://ski-haus.herokuapp.com/]
+  username: Fawlty
+  password: password
 
 
   
